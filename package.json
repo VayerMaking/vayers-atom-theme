@@ -2,7 +2,7 @@
   "name": "vayers-atom-theme",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "a theme based on monokai sublime",
   "keywords": [
     "syntax",
     "theme"

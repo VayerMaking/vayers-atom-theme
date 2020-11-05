@@ -1,8 +1,8 @@
 # vayers-atom-theme theme
 
- '''
+```
  An Atom theme based on Monokai Sublime theme
- '''
+ ```
   by - [VayerMaking](https://github.com/VayerMaking) - with :heart:
 
 ## Python

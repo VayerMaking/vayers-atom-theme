@@ -2,4 +2,10 @@
 
  An Atom theme based on Monokai Sublime theme by - [VayerMaking](https://github.com/VayerMaking)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Python](https://github.com/VayerMaking/vayers-atom-theme/blob/master/screenshots/Screenshot_20201105_154216.jpg)
+
+![CSS](https://github.com/VayerMaking/vayers-atom-theme/blob/master/screenshots/Screenshot_20201105_154402.jpg)
+
+![html](https://github.com/VayerMaking/vayers-atom-theme/blob/master/screenshots/Screenshot_20201105_154344.jpg)
+
+![C](https://github.com/VayerMaking/vayers-atom-theme/blob/master/screenshots/Screenshot_20201105_154321.jpg)
